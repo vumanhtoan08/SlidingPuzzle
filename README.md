@@ -38,3 +38,10 @@ Một trò chơi **puzzle 2D** được phát triển bằng **Unity**, nơi ng�
 | C#        | Ngôn ngữ lập trình |
 | Photoshop | Thiết kế giao diện |
 | DoTween   | Xử lí animation cho Canvas |
+
+---
+
+## 🚀 Link Tải Game
+
+https://toanvu.itch.io/sliding-puzzle
+
